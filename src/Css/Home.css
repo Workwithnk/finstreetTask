@@ -47,9 +47,22 @@
   letter-spacing: 2px;
   cursor: pointer;
 }
+.jobsData_Home a {
+  color: white;
+  text-decoration: none;
+}
 .pageDetail_Home {
   display: flex;
   align-items: center;
   justify-content: space-between;
   margin: 15px 10px;
+}
+
+/* signUpHome */
+.signUpHome {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 70vh;
 }
